@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81a7bea-5e94-4289-a969-d5a77f6810a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addItem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carogame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findMin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findValue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputArray.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/addItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/coach.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605754799919</updated>
       <workItem from="1605754800988" duration="13918000" />
-      <workItem from="1605797647026" duration="6188000" />
+      <workItem from="1605797647026" duration="7458000" />
     </task>
     <servers />
   </component>
